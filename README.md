@@ -1,13 +1,13 @@
 # Customer_Behavior_Analysis
 Data Analytics Project Showcasing Customer Behavior Analysis using Python, SQL and Power BI.
 
-📊 Customer Behaviour Analysis (Python, SQL, Power BI)
-📌 Overview
+## 📊 Customer Behaviour Analysis (Python, SQL, Power BI)
+###📌 Overview
 
 This project focuses on analysing customer behaviour to uncover segments, loyalty patterns, and key purchase drivers. Python is used for data cleaning, SQL for analytical insights, and Power BI for visual storytelling.
 
-🔧 Project Workflow
-1️⃣ Data Preparation & Modelling (Python)
+##🔧 Project Workflow
+###1️⃣ Data Preparation & Modelling (Python)
 
 🧹 Cleaned and transformed raw customer datasets
 
@@ -15,7 +15,7 @@ This project focuses on analysing customer behaviour to uncover segments, loyalt
 
 🚀 Engineered features for segmentation and behavioural analysis
 
-2️⃣ Data Analysis (SQL)
+###2️⃣ Data Analysis (SQL)
 
 🏗️ Structured cleaned data into analytical tables
 
@@ -29,7 +29,7 @@ This project focuses on analysing customer behaviour to uncover segments, loyalt
 
 🧪 Simulated business transaction scenarios
 
-3️⃣ Visualization & Insights (Power BI)
+###3️⃣ Visualization & Insights (Power BI)
 
 📈 Built an interactive Power BI dashboard
 
