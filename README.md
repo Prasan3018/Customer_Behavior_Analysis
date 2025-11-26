@@ -4,53 +4,42 @@ Data Analytics Project Showcasing Customer Behavior Analysis using Python, SQL a
 ## 📊 Customer Behaviour Analysis (Python, SQL, Power BI)
 ### 📌 Overview
 
-This project focuses on analysing customer behaviour to uncover segments, loyalty patterns, and key purchase drivers. Python is used for data cleaning, SQL for analytical insights, and Power BI for visual storytelling.
+Analysed customer behaviour to identify segments, loyalty patterns, and purchase drivers.
 
-## 🔧 Project Workflow
-### 1️⃣ Data Preparation & Modelling (Python)
+Used Python for data cleaning, SQL for insights, and Power BI for interactive dashboards.
 
-🧹 Cleaned and transformed raw customer datasets
+### 🔧 Project Workflow
+1. Data Preparation & Modelling (Python)
 
-🧩 Removed duplicates, handled missing values, fixed inconsistencies
+Cleaned and transformed raw customer data.
 
-🚀 Engineered features for segmentation and behavioural analysis
+Handled missing values, duplicates, and inconsistencies.
 
-### 2️⃣ Data Analysis (SQL)
+Engineered required features for segmentation and analysis.
 
-🏗️ Structured cleaned data into analytical tables
+### 2. Data Analysis (SQL)
 
-#### 🔍 Identified:
+Structured the cleaned data into analytical tables.
 
-🎯 Customer segments
+Identified customer segments, loyalty trends, and high-value customers.
 
-🔁 Loyalty & repeat purchase patterns
+Simulated business transaction scenarios to extract deeper insights.
 
-💰 High-value & at-risk customers
+### 3. Visualization & Insights (Power BI)
 
-🧪 Simulated business transaction scenarios
+Built an interactive dashboard for business-friendly insights.
 
-### 3️⃣ Visualization & Insights (Power BI)
+Visualized segmentation, retention trends, purchase frequency, and product patterns.
 
-📈 Built an interactive Power BI dashboard
-
-#### 👁️‍🗨️ Visualized:
-
-🧭 Segmentation
-
-🔄 Retention trends
-
-📊 Purchase frequency & product preferences
-
-🧠 Designed clear visuals to support business decision-making
+Created clear visuals to support data-driven decisions.
 
 ### 🎯 Key Outcomes
 
-📌 Identified actionable customer segments
+Identified actionable customer segments.
 
-🔎 Discovered loyalty drivers & churn indicators
+Highlighted loyalty drivers and churn indicators.
 
-🖥️ Delivered a dashboard for real-time insights and reporting
-
+Delivered an interactive dashboard for reporting and insights.
 
 
 
