@@ -9,7 +9,7 @@ Analysed customer behaviour to identify segments, loyalty patterns, and purchase
 Used Python for data cleaning, SQL for insights, and Power BI for interactive dashboards.
 
 ### 🔧 Project Workflow
-1. Data Preparation & Modelling (Python)
+#### 1. Data Preparation & Modelling (Python)
 
 Cleaned and transformed raw customer data.
 
@@ -17,7 +17,7 @@ Handled missing values, duplicates, and inconsistencies.
 
 Engineered required features for segmentation and analysis.
 
-### 2. Data Analysis (SQL)
+#### 2. Data Analysis (SQL)
 
 Structured the cleaned data into analytical tables.
 
@@ -25,7 +25,7 @@ Identified customer segments, loyalty trends, and high-value customers.
 
 Simulated business transaction scenarios to extract deeper insights.
 
-### 3. Visualization & Insights (Power BI)
+#### 3. Visualization & Insights (Power BI)
 
 Built an interactive dashboard for business-friendly insights.
 
