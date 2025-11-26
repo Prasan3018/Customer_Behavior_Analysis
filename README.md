@@ -19,7 +19,7 @@ This project focuses on analysing customer behaviour to uncover segments, loyalt
 
 🏗️ Structured cleaned data into analytical tables
 
-🔍 Identified:
+#### 🔍 Identified:
 
 🎯 Customer segments
 
@@ -33,7 +33,7 @@ This project focuses on analysing customer behaviour to uncover segments, loyalt
 
 📈 Built an interactive Power BI dashboard
 
-👁️‍🗨️ Visualized:
+#### 👁️‍🗨️ Visualized:
 
 🧭 Segmentation
 
@@ -43,7 +43,7 @@ This project focuses on analysing customer behaviour to uncover segments, loyalt
 
 🧠 Designed clear visuals to support business decision-making
 
-🎯 Key Outcomes
+### 🎯 Key Outcomes
 
 📌 Identified actionable customer segments
 
