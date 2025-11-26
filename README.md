@@ -11,7 +11,7 @@ Used Python for data cleaning, SQL for insights, and Power BI for interactive da
 ### 🔧 Project Workflow
 #### 1. Data Preparation & Modelling (Python)
 
-Cleaned and transformed raw customer data.
+* Cleaned and transformed raw customer data.
 
 Handled missing values, duplicates, and inconsistencies.
 
