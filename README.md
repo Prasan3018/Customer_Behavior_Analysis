@@ -13,33 +13,33 @@ Used Python for data cleaning, SQL for insights, and Power BI for interactive da
 
 * Cleaned and transformed raw customer data.
 
-Handled missing values, duplicates, and inconsistencies.
+* Handled missing values, duplicates, and inconsistencies.
 
-Engineered required features for segmentation and analysis.
+* Engineered required features for segmentation and analysis.
 
 #### 2. Data Analysis (SQL)
 
-Structured the cleaned data into analytical tables.
+* Structured the cleaned data into analytical tables.
 
-Identified customer segments, loyalty trends, and high-value customers.
+* Identified customer segments, loyalty trends, and high-value customers.
 
-Simulated business transaction scenarios to extract deeper insights.
+* Simulated business transaction scenarios to extract deeper insights.
 
 #### 3. Visualization & Insights (Power BI)
 
-Built an interactive dashboard for business-friendly insights.
+* Built an interactive dashboard for business-friendly insights.
 
-Visualized segmentation, retention trends, purchase frequency, and product patterns.
+* Visualized segmentation, retention trends, purchase frequency, and product patterns.
 
-Created clear visuals to support data-driven decisions.
+* Created clear visuals to support data-driven decisions.
 
 ### 🎯 Key Outcomes
 
-Identified actionable customer segments.
+* Identified actionable customer segments.
 
-Highlighted loyalty drivers and churn indicators.
+* Highlighted loyalty drivers and churn indicators.
 
-Delivered an interactive dashboard for reporting and insights.
+* Delivered an interactive dashboard for reporting and insights.
 
 
 
